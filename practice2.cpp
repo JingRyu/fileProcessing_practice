@@ -3,6 +3,8 @@
 #include <fstream>
 using namespace std;
 
+//Read number from txt file then average it.
+
 void openInputFile(ifstream& openFile)
 {
     string fileName;
